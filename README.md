@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/khoerunnisasy/khoerunnisasy/blob/main/hello.gif?raw=true" width="200" alt="Hello GIF" />
+</p>
+
 # 👋 Hi, I'm Khoerunnisa!
 
 I'm an aspiring **Front-End Developer** who recently transitioned from admin work to the world of web development. I love turning simple ideas into clean, functional, and user-friendly websites.
