@@ -1,14 +1,41 @@
-- 👋 Hi, I’m @khoerunnisasy
-- 👀 I’m interested in Front-End Web Developer
-- 🌱 I’m currently learning Front-End Web Development Learning Path
-- 💞️ I’m looking to collaborate on Shopping App project
-- 📫 How to reach me
-  <a href="https://www.instagram.com/khoerunnisasy/?locale=zh-TW" target="_blank">Instagram</a>, and
-  <a href="www.linkedin.com/in/khoerunnisa012" target="_blank">Linkedin</a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am really into languages
+# 👋 Hi, I'm Khoerunnisa!
 
-<!---
-khoerunnisasy/khoerunnisasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring **Front-End Developer** who recently transitioned from admin work to the world of web development. I love turning simple ideas into clean, functional, and user-friendly websites.
+
+Currently focusing on:
+- 🔤 HTML, CSS, and JavaScript (Vanilla)
+- 🔧 Building real-world projects (SPA, notes app, CV site)
+- 🚀 Preparing for my first opportunity in tech!
+
+---
+
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 🧩 Featured Projects
+
+### 🗒️ [Notes App](https://github.com/khoerunnisasy/notes-app)
+A simple CRUD-based note-taking app built with vanilla JavaScript.
+
+### 💼 [Personal CV Website](https://khoerunnisasy.github.io/personal-cv/)
+My very first HTML/CSS project — a static portfolio and CV.
+
+---
+
+## 💡 I'm Learning
+- React.js (Next step!)
+- Git & GitHub (Version control best practices)
+- Writing cleaner and more accessible HTML
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoerunnisasy)  
+
+---
+
+_“Staying positive and putting it all in God's hands helps me keep going and chasing my goals.”_ 🌸💖
