@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/khoerunnisasy/khoerunnisasy/blob/main/hello.gif?raw=true" width="200" alt="Hello GIF" />
+  <img src="https://github.com/khoerunnisasy/khoerunnisasy/blob/main/hello.gif?raw=true" width="150" alt="Hello GIF" />
 </p>
 
 # 👋 Hi, I'm Khoerunnisa!
