@@ -22,11 +22,11 @@ Currently focusing on:
 
 ## 🧩 Featured Projects
 
-### 🗒️ [Notes App](https://github.com/khoerunnisasy/notes-app)
+### 🗒️ [Stickey Note App](https://khoerunnisasy.github.io/StickeyNote-app/)
 A simple CRUD-based note-taking app built with vanilla JavaScript.
 
 ### 💼 [Personal CV Website](https://khoerunnisasy.github.io/personal-cv/)
-My very first HTML/CSS project — a static portfolio and CV.
+My very first HTML/CSS project — a static CV.
 
 ---
 
